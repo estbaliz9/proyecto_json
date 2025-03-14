@@ -1,0 +1,177 @@
+[
+  {
+    "$id": "1",
+    "ID": "P1001",
+    "Titulo": "La Bella y la Bestia",
+    "Director": "Gary Trousdale, Kirk Wise",
+    "Genero": "Animación",
+    "AñoEstreno": 1991,
+    "DuracionMin": 84,
+    "Clasificacion": "G",
+    "DisponibleEnStreaming": true,
+    "Plataformas": ["Disney+"],
+    "Personajes": [
+      {
+        "$id": "2",
+        "Nombre": "Bella",
+        "ActorVoz": "Paige O'Hara"
+      },
+      {
+        "$id": "3",
+        "Nombre": "Bestia",
+        "ActorVoz": "Robby Benson"
+      }
+    ],
+    "Premios": {
+      "Oscars": 2,
+      "GoldenGlobes": 3,
+      "AnnieAwards": 6
+    }
+  },
+  {
+    "$id": "4",
+    "ID": "P1002",
+    "Titulo": "Cenicienta",
+    "Director": "Clyde Geronimi, Wilfred Jackson, Hamilton Luske",
+    "Genero": "Animación",
+    "AñoEstreno": 1950,
+    "DuracionMin": 74,
+    "Clasificacion": "G",
+    "DisponibleEnStreaming": true,
+    "Plataformas": ["Disney+"],
+    "Personajes": [
+      {
+        "$id": "5",
+        "Nombre": "Cenicienta",
+        "ActorVoz": "Ilene Woods"
+      },
+      {
+        "$id": "6",
+        "Nombre": "Hada Madrina",
+        "ActorVoz": "Verna Felton"
+      }
+    ],
+    "Premios": {
+      "Oscars": 0,
+      "GoldenGlobes": 1,
+      "AnnieAwards": 0
+    }
+  },
+  {
+    "$id": "7",
+    "ID": "P1003",
+    "Titulo": "La Sirenita",
+    "Director": "Ron Clements, John Musker",
+    "Genero": "Animación",
+    "AñoEstreno": 1989,
+    "DuracionMin": 83,
+    "Clasificacion": "G",
+    "DisponibleEnStreaming": true,
+    "Plataformas": ["Disney+", "Amazon Prime"],
+    "Personajes": [
+      {
+        "$id": "8",
+        "Nombre": "Ariel",
+        "ActorVoz": "Jodi Benson"
+      },
+      {
+        "$id": "9",
+        "Nombre": "Úrsula",
+        "ActorVoz": "Pat Carroll"
+      }
+    ],
+    "Premios": {
+      "Oscars": 2,
+      "GoldenGlobes": 2,
+      "AnnieAwards": 0
+    }
+  },
+  {
+    "$id": "10",
+    "ID": "P1004",
+    "Titulo": "Frozen",
+    "Director": "Chris Buck, Jennifer Lee",
+    "Genero": "Animación",
+    "AñoEstreno": 2013,
+    "DuracionMin": 102,
+    "Clasificacion": "PG",
+    "DisponibleEnStreaming": true,
+    "Plataformas": ["Disney+"],
+    "Personajes": [
+      {
+        "$id": "11",
+        "Nombre": "Elsa",
+        "ActorVoz": "Idina Menzel"
+      },
+      {
+        "$id": "12",
+        "Nombre": "Anna",
+        "ActorVoz": "Kristen Bell"
+      }
+    ],
+    "Premios": {
+      "Oscars": 2,
+      "GoldenGlobes": 1,
+      "AnnieAwards": 5
+    }
+  },
+  {
+    "$id": "13",
+    "ID": "P1005",
+    "Titulo": "Enredados",
+    "Director": "Nathan Greno, Byron Howard",
+    "Genero": "Animación",
+    "AñoEstreno": 2010,
+    "DuracionMin": 100,
+    "Clasificacion": "PG",
+    "DisponibleEnStreaming": true,
+    "Plataformas": ["Disney+", "Hulu"],
+    "Personajes": [
+      {
+        "$id": "14",
+        "Nombre": "Rapunzel",
+        "ActorVoz": "Mandy Moore"
+      },
+      {
+        "$id": "15",
+        "Nombre": "Flynn Rider",
+        "ActorVoz": "Zachary Levi"
+      }
+    ],
+    "Premios": {
+      "Oscars": 0,
+      "GoldenGlobes": 0,
+      "AnnieAwards": 1
+    }
+  },
+  {
+    "$id": "16",
+    "ID": "P1006",
+    "Titulo": "Blancanieves y los Siete Enanitos",
+    "Director": "David Hand",
+    "Genero": "Animación",
+    "AñoEstreno": 1937,
+    "DuracionMin": 83,
+    "Clasificacion": "G",
+    "DisponibleEnStreaming": true,
+    "Plataformas": ["Disney+"],
+    "Personajes": [
+      {
+        "$id": "17",
+        "Nombre": "Blancanieves",
+        "ActorVoz": "Adriana Caselotti"
+      },
+      {
+        "$id": "18",
+        "Nombre": "Reina Malvada",
+        "ActorVoz": "Lucille La Verne"
+      }
+    ],
+    "Premios": {
+      "Oscars": 1,
+      "GoldenGlobes": 0,
+      "AnnieAwards": 0
+    }
+  }
+]
+
