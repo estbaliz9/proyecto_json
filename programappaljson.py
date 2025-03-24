@@ -1,4 +1,4 @@
-import time
+import tim
 import funcionesjson
 
 ruta = "json_disney.json"
